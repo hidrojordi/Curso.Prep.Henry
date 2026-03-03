@@ -10,7 +10,7 @@
     </td>
   </tr>
 </table>
-
+hola!
 ## Primeros Pasos
 
 ### Preparando tu compu:
